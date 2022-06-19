@@ -1,0 +1,20 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsappBot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "soon"
+  },
+  "author": "ee3",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.16.7"
+  }
+}
