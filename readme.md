@@ -30,4 +30,5 @@ https://user-images.githubusercontent.com/72020074/174495593-50f7ecbe-59bf-49b2-
   > Done your bot  is now ready!
   > ![ScreenShot](https://cdn.discordapp.com/attachments/988083019980099644/988156443603652608/unknown.png)
 
-  Star my repo when ?
+---
+  🌟Star my repo when ?
